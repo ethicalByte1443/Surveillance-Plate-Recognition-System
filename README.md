@@ -179,7 +179,7 @@ python transfer.py --api-key MY_API_KEY --folder /watch/this/folder
 ```
 
 * Automatically archives processed images.
-* Can forward results to [ParkPow](https://parkpow.com/?utm_source=github&utm_medium=website) for parking management.
+
 
 ---
 
